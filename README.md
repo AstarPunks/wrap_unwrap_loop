@@ -17,7 +17,7 @@ PRIVATE_KEY=0x[secret key]
 FROM_ADDRESS=0x[wallet addr]
 ```
 
-# Run once
+# How to use
 
  * Run once
 
