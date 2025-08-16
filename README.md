@@ -19,7 +19,7 @@ FROM_ADDRESS=0x[wallet addr]
 
 # Run once
 
- * 一度だけ実行
+ * Run once
 
 ```
 $ python ./wrap_unwrap_loop.py --once
